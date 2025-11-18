@@ -1,4 +1,7 @@
-## Hi there 👋
+## Badges
+
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/0baee2a2-e51f-447a-b9b3-92e7ef9fa742" />
+
 
 <!--
 **JennHaggerty/jennhaggerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
